@@ -96,8 +96,9 @@
 
   @media only screen and (max-width: 600px) {
     .link{
-      top: 34vh;
-      left: 85vw;
+      position: absolute;
+      top: 32%;
+      left: 85%;
       font-size: 6vh;
       color: white;
     }
